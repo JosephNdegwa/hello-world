@@ -28,6 +28,6 @@ For further enqueries please contact
 * kariukindegwa98@gmail.com
 
 ## LIcense
- https://choosealicense.com/licenses/mit/
+ [MIT](https://choosealicense.com/licenses/mit/)
 
  Copyright (C) {2020}
