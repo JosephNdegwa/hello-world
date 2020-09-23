@@ -8,7 +8,7 @@ Joseph
 This is just a trial website I made while I was learning how to build websites
 
 ## Setup and installation
-* run git clone https://github.com/JosephNdegwa/hello-world.git
+* run git [clone](https://github.com/JosephNdegwa/hello-world.git)
 * cd hello-world
 * Serve it on the web
 
